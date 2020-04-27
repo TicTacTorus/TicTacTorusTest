@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Projekte\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj": {}
+    "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Projekte\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj": {
+    "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Projekte\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj",
+        "projectUniqueName": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj",
         "projectName": "WebApplicationTest",
-        "projectPath": "D:\\Visual Studio Projekte\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj",
-        "packagesPath": "C:\\Users\\todus\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Projekte\\WebApplicationTest\\WebApplicationTest\\obj\\",
+        "projectPath": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj",
+        "packagesPath": "C:\\Users\\gudda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\todus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gudda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
