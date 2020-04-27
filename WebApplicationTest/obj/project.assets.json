@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\gudda\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\todus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj",
+      "projectUniqueName": "D:\\Visual Studio Projekte\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj",
       "projectName": "WebApplicationTest",
-      "projectPath": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj",
-      "packagesPath": "C:\\Users\\gudda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\obj\\",
+      "projectPath": "D:\\Visual Studio Projekte\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj",
+      "packagesPath": "C:\\Users\\todus\\.nuget\\packages\\",
+      "outputPath": "D:\\Visual Studio Projekte\\WebApplicationTest\\WebApplicationTest\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gudda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\todus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

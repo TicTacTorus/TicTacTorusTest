@@ -1,14 +1,11 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj",
+    "projectUniqueName": "D:\\Visual Studio Projekte\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj",
     "projectName": "WebApplicationTest",
-    "projectPath": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj",
-    "outputPath": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\obj\\",
+    "projectPath": "D:\\Visual Studio Projekte\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj",
+    "outputPath": "D:\\Visual Studio Projekte\\WebApplicationTest\\WebApplicationTest\\obj\\",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-    ],
     "originalTargetFrameworks": [
       "netcoreapp3.1"
     ],

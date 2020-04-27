@@ -19,7 +19,6 @@ D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcor
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
-D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplicationTest.dll
@@ -32,7 +31,6 @@ D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcor
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
-D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
@@ -110,3 +108,5 @@ C:\Users\gudda\OneDrive - stud.hs-offenburg.de\Hochschule\SS2020\Software Engine
 C:\Users\gudda\OneDrive - stud.hs-offenburg.de\Hochschule\SS2020\Software Engineering 2\TicTacTorusTest\WebApplicationTest\obj\Debug\netcoreapp3.1\WebApplicationTest.csproj.CopyComplete
 C:\Users\gudda\OneDrive - stud.hs-offenburg.de\Hochschule\SS2020\Software Engineering 2\TicTacTorusTest\WebApplicationTest\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Info.razor.g.cs
 C:\Users\gudda\OneDrive - stud.hs-offenburg.de\Hochschule\SS2020\Software Engineering 2\TicTacTorusTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\Pages\Info.razor.g.cs
+D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Info.razor.g.cs
+D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\Pages\Info.razor.g.cs
