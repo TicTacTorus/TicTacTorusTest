@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rieme\\RiderProjects\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj": {}
+    "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rieme\\RiderProjects\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj": {
+    "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rieme\\RiderProjects\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj",
+        "projectUniqueName": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj",
         "projectName": "WebApplicationTest",
-        "projectPath": "C:\\Users\\rieme\\RiderProjects\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj",
-        "packagesPath": "C:\\Users\\rieme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rieme\\RiderProjects\\TicTacTorusTest\\WebApplicationTest\\obj\\",
+        "projectPath": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\WebApplicationTest.csproj",
+        "packagesPath": "C:\\Users\\gudda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gudda\\OneDrive - stud.hs-offenburg.de\\Hochschule\\SS2020\\Software Engineering 2\\TicTacTorusTest\\WebApplicationTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rieme\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gudda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

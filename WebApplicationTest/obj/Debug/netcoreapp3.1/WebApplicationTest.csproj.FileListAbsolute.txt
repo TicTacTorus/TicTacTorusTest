@@ -108,3 +108,5 @@ C:\Users\gudda\OneDrive - stud.hs-offenburg.de\Hochschule\SS2020\Software Engine
 C:\Users\gudda\OneDrive - stud.hs-offenburg.de\Hochschule\SS2020\Software Engineering 2\TicTacTorusTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\Pages\Info.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Info.razor.g.cs
 D:\Visual Studio Projekte\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\Pages\Info.razor.g.cs
+C:\Users\gudda\OneDrive - stud.hs-offenburg.de\Hochschule\SS2020\Software Engineering 2\TicTacTorusTest\WebApplicationTest\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\T.razor.g.cs
+C:\Users\gudda\OneDrive - stud.hs-offenburg.de\Hochschule\SS2020\Software Engineering 2\TicTacTorusTest\WebApplicationTest\obj\Debug\netcoreapp3.1\Razor\Pages\T.razor.g.cs
