@@ -15,6 +15,7 @@ namespace WebApplicationTest
     {
         public static void Main(string[] args)
         {
+            InitDatabase.Init();
             CreateHostBuilder(args).Build().Run();
         }
 
